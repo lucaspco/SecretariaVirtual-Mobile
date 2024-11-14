@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Watchman
+.watchmanconfig
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+
+# iOS
+ios/Pods/
+ios/build/
+
+# React Native packager
+*.lock
+npm-debug.log*
+yarn-debug.log*
+metro-cache/
+.expo/
+.expo-shared/
+
+# Misc
+.env
+.DS_Store
