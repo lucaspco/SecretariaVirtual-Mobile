@@ -21,7 +21,7 @@ O **Secretaria Virtual** é um aplicativo Android desenvolvido em **React Native
 ## Estrutura do Projeto
 
 - **`src/pages`**: Contém as telas principais, como `Login`, `Register`, `Dashboard`, etc.
-- **`src/services`**: Serviços auxiliares, como `authService` para autenticação e `api` para integração com o backend.
+- **`src`**: Serviços auxiliares, como `authService` para autenticação e `api` para integração com o backend.
   
 ## Como Rodar o Projeto
 
@@ -35,8 +35,8 @@ O **Secretaria Virtual** é um aplicativo Android desenvolvido em **React Native
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/lucaspco/SecretariaVirtual-Android.git
-    cd SecretariaVirtual-Android
+    git clone https://github.com/lucaspco/SecretariaVirtual-Mobile.git
+    cd SecretariaVirtual-Mobile
     ```
 
 2. Instale as dependências do projeto:
